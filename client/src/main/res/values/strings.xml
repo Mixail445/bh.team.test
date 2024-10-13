@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="client_text_start_stop">Начать/Пауза</string>
+    <string name="client_text_config">Config</string>
+    <string name="client_text_ip">ip</string>
+    <string name="client_text_port">port</string>
+    <string name="client_text_save">Сохранить</string>
+    <string name="accessibility_service_description">acces_service\n</string>
+</resources>

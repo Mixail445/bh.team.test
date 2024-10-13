@@ -1,0 +1,11 @@
+<accessibility-service
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:accessibilityEventTypes="typeWindowStateChanged|typeViewClicked|typeViewFocused|typeAllMask"
+    android:accessibilityFlags="flagReportViewIds"
+    android:packageNames="com.android.chrome"
+    android:canRetrieveWindowContent="true"
+    android:canRequestTouchExplorationMode="true"
+    android:accessibilityFeedbackType="feedbackSpoken"
+    android:notificationTimeout="100"
+    android:canPerformGestures="true"
+    android:description="@string/accessibility_service_description" />
