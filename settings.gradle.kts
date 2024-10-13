@@ -21,4 +21,6 @@ dependencyResolutionManagement {
 
 rootProject.name = "bh.team.test"
 include(":app")
- 
+include(":client")
+include(":common-ui")
+include(":common")
